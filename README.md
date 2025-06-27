@@ -1,2 +1,1 @@
-# indojanda
-indojanda
+# [indojanda](https://indojanda.pages.dev)
